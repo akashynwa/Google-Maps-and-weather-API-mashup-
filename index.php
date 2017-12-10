@@ -1,5 +1,3 @@
-
-
 <head>
   <meta charset="utf-8">
   
@@ -75,14 +73,7 @@ position:absolute;
 
   <h2 align = "center"> Click on the map to find the address and the weather details. </h2>
 
-
- 
- 
-
-  
-
- 
-    <title>Web Mashup: Display Address with Weather Details</title>
+<title>Web Mashup: Display Address with Weather Details</title>
     <meta charset="utf-8"/> 
     <script type="text/javascript" src="webmash.js"></script>
     <script async defer src="https://maps.googleapis.com/maps/api/js?key= AIzaSyD8Sz_V_7d74QotmMl-jhYDphNbfH32nlM&callback=initMap" type="text/javascript"></script>  
