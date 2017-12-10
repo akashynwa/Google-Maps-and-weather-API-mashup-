@@ -1,4 +1,3 @@
-
 var username = "akashynwa1";
 var map;
 var marker;
@@ -64,4 +63,3 @@ function displayResult (loc, address) {
 function clearText(){   //to clear the text
 	 document.getElementById("hello").innerHTML = " ";
 }
-
